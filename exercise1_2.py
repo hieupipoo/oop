@@ -1,7 +1,7 @@
 """
-Think Python - Chapter 1
 Exercise 1.2
-Author: Hieu Tran
+Author: Tran Ngoc Hieu
+MSSV: 25112045
 """
 
 # 1. How many seconds are there in 42 minutes 42 seconds?
