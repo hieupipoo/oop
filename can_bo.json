@@ -1,0 +1,23 @@
+[
+    {
+        "ho_ten": "Nguyen Van A",
+        "tuoi": 30,
+        "gioi_tinh": "Nam",
+        "dia_chi": "Hanoi",
+        "loai": "CongNhan"
+    },
+    {
+        "ho_ten": "Tran Thi B",
+        "tuoi": 25,
+        "gioi_tinh": "Nu",
+        "dia_chi": "HCM",
+        "loai": "KySu"
+    },
+    {
+        "ho_ten": "Le Van C",
+        "tuoi": 40,
+        "gioi_tinh": "Nam",
+        "dia_chi": "Danang",
+        "loai": "NhanVien"
+    }
+]
